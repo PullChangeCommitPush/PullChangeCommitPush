@@ -3,7 +3,7 @@
 
 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/inkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/facebook-logo-2019-1597680-1350125.png" />][facebook]
 
